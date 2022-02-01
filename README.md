@@ -19,7 +19,9 @@ A contact book app built with [Flutter](https://flutter.dev)
    
 <tr>
     <td><img align="left" src="https://raw.githubusercontent.com/Paakofinie/contact_app_pfko/main/screenshots/art_1.jpg" width="200" height="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/Paakofinie/contact_app_pfko/main/screenshots/art_2.jpg" width="200" height="400"/></td> 
+    <td><img src="https://raw.githubusercontent.com/Paakofinie/contact_app_pfko/main/screenshots/art_2.jpg" width="200" height="400"/></td>
+<tr>
+    <td><img align="left" src="https://raw.githubusercontent.com/Paakofinie/contact_app_pfko/main/screenshots/art_3.jpg" width="200" height="400"/></td>
 
 ## Getting Started
 
