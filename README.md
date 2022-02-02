@@ -99,8 +99,9 @@ What things you need to run the app
 
 Felix Otu Kofi Agyenkwah
 
-- [**Facebook**](https://web.facebook.com/dev.paakofinie)
-- [**Instagram**](https://www.instagram.com/dev.paakofinie/)
+- [**Facebook**](https://web.facebook.com/paakofinie)
+- [**Instagram**](https://www.instagram.com/19nth_andbeyond/)
+- [**Twitter**](https://twitter.com/PaaKofiNie)
 
 ## License 
 
